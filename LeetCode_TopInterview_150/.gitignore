@@ -1,0 +1,4 @@
+# Things to be ignored while doing the commit to Git 
+.sfdx/
+.sf/
+
